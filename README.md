@@ -28,7 +28,7 @@ streamlit run imdb_scraper.py
 
 ## Learning Objectives
 
-By working on this project, you have learned the following concepts:
+By working on this project, I have learned the following concepts:
 
 - **Web Scraping**: You learned how to send HTTP requests to web pages using the `requests` library and how to parse HTML content using `BeautifulSoup`.
 
